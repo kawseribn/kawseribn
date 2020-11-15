@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, there! Here are the things I am currently working on! 👋
 - 🔭 I’m currently working on Facial Expression Analysis and Driver Drowsiness Detection
 - 🌱 Learning Deep Learning and Computer Vision
 - 👯 I'd love to collaborate on interesting open-source projects 
