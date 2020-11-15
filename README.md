@@ -9,6 +9,6 @@
 [![Medium Badge](https://img.shields.io/badge/-@ibna_kawser-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kawser.ibn.93/)](https://medium.com/@kawser.ibn.93)
 [![Gmail Badge](https://img.shields.io/badge/-kawser.ibn.93@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kawser.ibn.93@gmail.com)](mailto:kawser.ibn.93@gmail.com)
 
- 📦 [Published Paper][Published Paper]
+ 📦 [Conference Paper][Conference Paper]
  
-[Published Paper]: https://ieeexplore.ieee.org/document/9230766?fbclid=IwAR1hrv2dZaUDoE76WJLYo_mNQ46bJIIoXZV9_q6-2xnY6H_ihHiKJ2WSoII
+[Conference Paper]: https://ieeexplore.ieee.org/document/9230766?fbclid=IwAR1hrv2dZaUDoE76WJLYo_mNQ46bJIIoXZV9_q6-2xnY6H_ihHiKJ2WSoII
