@@ -11,6 +11,6 @@
 
  📦 [Published Paper][Published Paper]
  
- [![Published Paper Badge](https://img.shields.io/badge/-@driver_drowsiness-03a57a?style=flat-square&labelColor=000000&logo=Ieee&link=https://ieeexplore.ieee.org/document/9230766)](https://ieeexplore.ieee.org/document/9230766)
+ [![Published Paper Badge](https://img.shields.io/badge/-@driver_drowsiness-03a57a?style=flat-square&labelColor=000000&logo=IEEE&link=https://ieeexplore.ieee.org/document/9230766)](https://ieeexplore.ieee.org/document/9230766)
  
 [Published Paper]: https://ieeexplore.ieee.org/document/9230766?fbclid=IwAR1hrv2dZaUDoE76WJLYo_mNQ46bJIIoXZV9_q6-2xnY6H_ihHiKJ2WSoII
