@@ -1,5 +1,5 @@
 ### Hello, there! Here are the things I am currently working on! 👋
-- 🔭 I’m currently working on Domain Adaptation, Data Imputation
+- 🔭 I’m currently working on Domain Adaptation, Data Imputation on Image and Tabular Domain
 - 🌱 Studying Deep Learning, Computer Vision and Data Science
 - 👯 I'd love to collaborate on interesting research projects
 <img src = "https://github-readme-stats.vercel.app/api?username=kawseribn&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf8dc&bg_color=151509">
