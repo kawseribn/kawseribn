@@ -1,10 +1,10 @@
 ### Hello there! 👋
 
-I'm actively engaged in several exciting areas in the tech field. Here’s a snapshot of what I'm working on and my interests:
+I'm actively engaged in several exciting areas in the tech and research field. Here’s a snapshot of what I’m working on and my interests:
 
-- 🔭 **Current Projects:** I'm focusing on **Domain Adaptation** and **Missing Data Imputation** techniques.
-- 🌱 **Learning:** I'm currently deepening my knowledge in **Deep Learning**, **Computer Vision**, and **Data Science**.
-- 👯 **Collaboration:** I'm eager to collaborate on innovative research projects, particularly in **Health Informatics** and **Computer Vision**.
+- 🔬 **Research Focus:** My work centers on **Domain Adaptation**, **Missing Data Imputation**, and **Attention Mechanisms** for structured and medical imaging data.
+- 🌱 **Learning:** I’m currently deepening my knowledge in **Deep Learning**, **Computer Vision**, and **Large Language Models (LLM)** for impactful data science applications.
+- 🤝 **Collaboration:** I’m eager to collaborate on innovative research projects, especially in **Health Informatics**, **Computer Vision**, and **Multi-Modal Data Analysis**.
 
 #### Connect with Me:
 [![Linkedin Badge](https://img.shields.io/badge/-ibna_kawser-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibna-kowsar-744a97153/)](https://www.linkedin.com/in/ibna-kowsar-744a97153/)
