@@ -2,7 +2,7 @@
 
 I'm actively engaged in several exciting areas in the tech and research field. Here’s a snapshot of what I’m working on and my interests:
 
-- 🔬 **Research Focus:** My work centers on **Domain Adaptation**, **Missing Data Imputation**, and **Attention Mechanisms** for structured and medical imaging data.
+- 🔬 **Research Focus:** My research interests lie in computer vision, large language models (LLM), and multi-modal learning for real-world data and health informatics.
 - 🌱 **Learning:** I’m currently deepening my knowledge in **Deep Learning**, **Computer Vision**, and **Large Language Models (LLM)** for impactful data science applications.
 - 🤝 **Collaboration:** I’m eager to collaborate on innovative research projects, especially in **Health Informatics**, **Computer Vision**, and **Multi-Modal Data Analysis**.
 
